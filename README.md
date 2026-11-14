@@ -73,7 +73,7 @@ Current versions of Chrome and Edge are the best tested. Firefox and Safari shou
 
 ## License and credits
 
-Add your own license here (for example MIT).
+Feel free to use that tool.
 
 This tool includes third-party software, which keeps its own license:
 
